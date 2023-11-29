@@ -1,0 +1,8 @@
+//此多仓接口列表是fuzeng为家人提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+{
+"storeHouse": [
+{"sourceName":"(推荐)不能用就换仓库","sourceUrl":"https://jihulab.com/fuzeng/superbox/-/raw/main/box.json"},
+{"sourceName":"欧歌仓(移动联通电信)","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"},
+{"sourceName":"无名仓(联通电信)","sourceUrl":"https://cyuan.netlify.app/tvbox/duo.json"},
+{"sourceName":"潇洒仓(移动联通电信)","sourceUrl":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"}
+]}
